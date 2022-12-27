@@ -1,5 +1,9 @@
 # Hackerrank 30 Days Of Code Day 1
 
+[EN] Hackerrank 30 Days Of Code Day 1: Data Types solutions in C# 
+
+[TR] HackerRank 30 Days Of Code 1.Gün: Veri Tipleri C# ile Çözümü
+
 # Task - Görev
 
 i,d ve s bizim için hazırlanmış ve initialize edilmiş. 
@@ -16,8 +20,5 @@ i,d ve s bizim için hazırlanmış ve initialize edilmiş.
     
     c) Yeni bir satırda string değerlerini bitişik olarak olarak yazdır. 
 
-[EN] Hackerrank 30 Days Of Code Day 1: Data Types solutions in C# 
-
-[TR] HackerRank 30 Days Of Code 1.Gün: Veri Tipleri C# ile Çözümü
 
 Bu algoritma sorusunu çözerken SONER GÖNÜL Hocamın videolarından Yararlandım. 
