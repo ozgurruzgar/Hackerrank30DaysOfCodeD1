@@ -12,7 +12,7 @@ i,d ve s bizim için hazırlanmış ve initialize edilmiş.
 
     a) i değerlerinin toplamlarını ekrana yazdıracaz.
   
-    b) Yeni bir satırda ondalıklı yani (4.0) şeklinde yazdırazağız.
+    b) Yeni bir satırda double değerleri ondalıklı yani (4.0) şeklinde yazdırazağız.
     
     c) Yeni bir satırda string değerlerini bitişik olarak olarak yazdır. 
 
